@@ -1,0 +1,14 @@
+{
+  "name": "learn-amp",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "hapi": "^16.1.0",
+    "hapi-routes-prefixer": "^2.0.0",
+    "inert": "^4.1.0",
+    "vision": "^4.1.1"
+  }
+}
